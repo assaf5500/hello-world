@@ -1,2 +1,5 @@
 # hello-world
-first repository ever.... let's have a look
+first repository ever.... we had a quick look..
+
+
+is this the "README" file?
